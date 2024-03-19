@@ -28,22 +28,18 @@ menu:
         name: house
         theme: solid
         link: /
-    About:
-        name: id-card
+    Publications:
+        name: book
         theme: solid
-        link: /about
+        link: /publications
     Archives:
         name: box-archive
         theme: solid
         link: /archives
-    Categories:
-        name: bookmark
+    About:
+        name: id-card
         theme: solid
-        link: /categories
-    Tags:
-        name: tags
-        theme: solid
-        link: /tags
+        link: /about
 
 # Side info card
 card:
